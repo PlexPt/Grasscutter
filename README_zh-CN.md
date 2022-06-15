@@ -67,6 +67,9 @@
     
 2. 设置代理为 `127.0.0.1:8080` 或其它你所设定的端口
 
+#### Android 连接
+https://github.com/577fkj/GenshinProxy
+
 **你也可以简单地运行 `start.cmd` 来全自动启动服务端并设置代理**
 
 ### 构建
